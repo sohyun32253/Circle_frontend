@@ -1,0 +1,9 @@
+[33m645d88e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m4-sidemenu-열고-닫는-기능과-경로-이동[m[33m, [m[1;31mcircle_front/4-sidemenu-열고-닫는-기능과-경로-이동[m[33m)[m HEAD@{0}: checkout: moving from 2-header-footer to 4-sidemenu-열고-닫는-기능과-경로-이동
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{4}: checkout: moving from 2-header-footer to 2-header-footer
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{5}: checkout: moving from 2-header-footer to 2-header-footer
+[33m0af04cd[m[33m ([m[1;31mcircle_front/2-header-footer[m[33m, [m[1;32m2-header-footer[m[33m)[m HEAD@{6}: commit: header 및 footer 구조 작업
+[33m72226fc[m HEAD@{7}: checkout: moving from main to 2-header-footer
+[33m0aa4f07[m[33m ([m[1;32mmain[m[33m)[m HEAD@{8}: commit (initial): '12/4'
